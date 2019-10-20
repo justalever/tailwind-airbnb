@@ -7,9 +7,9 @@ To get started:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-airbnb
+    git clone https://github.com/justalever/tailwind-airbnb tailwind-airbnb
 
-    cd tailwindcss-playground
+    cd tailwind-airbnb
     ```
 
 2. Install the dependencies:
