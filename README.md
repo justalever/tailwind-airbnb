@@ -1,13 +1,13 @@
-# Tailwind CSS Playground
+# Airbnb Homepage build with Tailwind CSS
 
-A simple starter project for playing around with Tailwind in a proper PostCSS environment.
+A simple starter project for playing around with Tailwind in a proper PostCSS environment. I used Airbnb as a source of inspiration to teach how to use the framework.
 
 To get started:
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/tailwindcss/playground.git tailwindcss-playground
+    git clone https://github.com/tailwindcss/playground.git tailwindcss-airbnb
 
     cd tailwindcss-playground
     ```
