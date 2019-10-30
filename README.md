@@ -1,3 +1,5 @@
+![https://i.imgur.com/KEbg2dC.jpg](https://i.imgur.com/KEbg2dC.jpg)
+
 # Airbnb Homepage build with Tailwind CSS
 
 A simple starter project for playing around with Tailwind in a proper PostCSS environment. I used Airbnb as a source of inspiration to teach how to use the framework.
