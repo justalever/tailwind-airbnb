@@ -3,10 +3,6 @@
 @tailwind utilities;
 
 
-.transition {
-  transition: .2s ease;
-}
-
 .sr-only {
   position: absolute !important; /* Outside the DOM flow */
   height: 1px; width: 1px; /* Nearly collapsed */
@@ -29,7 +25,7 @@
 }
 
 .input:focus {
-  @apply shadow outline-none border-gray-400 transition;
+  @apply shadow outline-none border-gray-400 duration-200 ease-linear;
 
   box-shadow: 0 0 0 0.2rem theme("colors.gray.200");
   background-clip: padding-box;
