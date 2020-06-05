@@ -2,6 +2,8 @@
 
 # Airbnb Homepage build with Tailwind CSS
 
+[View the tutorial here](https://web-crunch.com/posts/re-create-airbnbs-home-page-with-tailwind-css)
+
 A simple starter project for playing around with Tailwind in a proper PostCSS environment. I used Airbnb as a source of inspiration to teach how to use the framework.
 
 To get started:
